@@ -5,3 +5,6 @@
 
 ## Docker
 - [portainer](https://github.com/portainer/portainer) - lightweight ‘universal’ management GUI that can be used to easily manage Docker, Swarm, Kubernetes and ACI environments.
+
+## Agents / APP
+- [Kivy](https://kivy.org/#home) - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.
